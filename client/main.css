@@ -1,0 +1,21 @@
+* {
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+#messages {
+    background: lightcoral;
+    width: 100%;
+    height: 100px;
+    overflow: auto;
+    padding: 15px;
+}
+
+#message {
+    width: 100%;
+}
+
+#send {
+    width: 100%;
+}
